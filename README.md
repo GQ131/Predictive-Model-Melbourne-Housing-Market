@@ -1,4 +1,4 @@
-# Melbourned-Housing-Market
+# Melbourne-Housing-Market
 
 This project explores and analyzes the Melbourne housing market through a comprehensive dataset, aiming to predict house prices using machine learning models. The dataset, Melbourne_housing.csv, contains various features related to properties sold in Melbourne, including suburb, address, number of rooms, price, and many others.
 Project Structure:
