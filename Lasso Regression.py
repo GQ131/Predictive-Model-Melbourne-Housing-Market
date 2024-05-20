@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
- scipy import stats
+import scipy import stats
 from scipy.stats import norm, skew
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
