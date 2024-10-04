@@ -35,16 +35,14 @@ Project Structure:
 - **Impact:** Attracts more traffic to real estate platforms by providing an interactive and data-rich experience for users.
 
 ## Key Insights:
-
-    - Discovered how various features impact house prices in Melbourne.
-    - Evaluated the effectiveness of Linear and Lasso Regression models in predicting house prices.
-    - Assessed model performance using in-sample and out-of-sample evaluation metrics.
+- Discovered how various features impact house prices in Melbourne.
+- Evaluated the effectiveness of Linear and Lasso Regression models in predicting house prices.
+- Assessed model performance using in-sample and out-of-sample evaluation metrics.
 
 ## Technologies Used:
-
-    - Python
-    - Pandas for data manipulation
-    - Scikit-learn for model building and evaluation
-    - Matplotlib and Seaborn for data visualization
+- Python
+- Pandas for data manipulation
+- Scikit-learn for model building and evaluation
+- Matplotlib and Seaborn for data visualization
 
 This repository contains all the code, visualizations, and analysis performed as part of the assignment. The code is well-commented and formatted for easy understanding and reproducibility.
